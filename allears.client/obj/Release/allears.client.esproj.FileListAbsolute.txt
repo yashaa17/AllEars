@@ -1,2 +1,0 @@
-D:\AllEars\AllEars\allears.client\obj\Release\allears.client.esproj.CoreCompileInputs.cache
-D:\folder\AllEars\AllEars\allears.client\obj\Release\allears.client.esproj.CoreCompileInputs.cache
